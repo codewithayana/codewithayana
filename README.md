@@ -14,19 +14,9 @@
 ---
 
 <img src="./assets/images/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
-
-
-
-
-
-
-
-
-
-
-
-
-  🔭 Strengthening HTML, CSS, and JavaScript fundamentals
+ 
+ 
+ 🔭 Strengthening HTML, CSS, and JavaScript fundamentals
 
  🌱 Learning Git & GitHub for better collaboration
 
@@ -35,6 +25,10 @@
 💡 Exploring new technologies and real-world applications
 
 🎯 Aspiring Full-Stack Developer & open-source contributor.
+
+
+
+---
 
 
 <div align="center">
@@ -51,24 +45,33 @@
 <table align="center">
   <tr>
     <td><strong>My Portfolio Website</strong></td>
-    <td>
+    
+  <td>
       <a href="https://m-dinesh-30.web.app/">
         <img src="https://img.shields.io/badge/VIEW DEMO-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Portfolio">
       </a>
-      <a href="https://github.com/dineshit27/portfolio-web-pvt">
+      <a href="https://github.com/ayanadinesh/portfolio-web-pvt">
         <img src="https://img.shields.io/badge/REPOSITORY-red?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
       </a>
     </td>
   </tr>
 
-  <tr>
-    <td><strong>Aquawatt Solutions</strong></td>
-    <td>
-      <a href="https://aquawatt-org.web.app/">
-        <img src="https://img.shields.io/badge/LIVE DEMO-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Aquawatt Website">
-      </a>
-      <a href="https://github.com/dineshit27/aquawatt-org">
-        <img src="https://img.shields.io/badge/REPOSITORY-red?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
-      </a>
-    </td>
-  </tr>
+ </tr>
+
+  
+</table>
+
+<hr>
+
+<div align="center">
+  <h3>🤖 Github Stats</h3>
+  
+![ayna's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithayana)
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithayana&layout=compact&&langs_count=8"/>
+
+
+<hr>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/ayana?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats">
+</p>
