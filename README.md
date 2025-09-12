@@ -11,7 +11,7 @@
 <!-- [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dinesh_coder30/)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-1abc9c?style=flat&logo=google-chrome&logoColor=white)](https://m-dinesh-30.web.app/) -->
 
----
+<hr>
 
 <img src="./assets/images/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
  
@@ -48,6 +48,18 @@
 <table align="center">
   <tr>
     <td><strong>My Portfolio Website</strong></td>
+    
+  <td>
+      <a href="https://m-dinesh-30.web.app/">
+        <img src="https://img.shields.io/badge/VIEW DEMO-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Portfolio">
+      </a>
+      <a href="https://github.com/ayanadinesh/portfolio-web-pvt">
+        <img src="https://img.shields.io/badge/REPOSITORY-red?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Netflix Clone</strong></td>
     
   <td>
       <a href="https://m-dinesh-30.web.app/">
