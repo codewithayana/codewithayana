@@ -15,28 +15,31 @@
 
 <img src="./assets/images/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
  
+ - 🔭 Strengthening **HTML, CSS, and JavaScript** fundamentals  
+
+- 🌱 Learning **Git & GitHub** for better collaboration  
+
+- 🚀 Passionate about **web development & UI/UX**  
+
+- 💡 Exploring new technologies and real-world applications  
+
+- 🎯 Aspiring **Full-Stack Developer** & open-source contributor  
+
+<hr>
+
+
+<h3 align="center">⚙️ Tech Skills</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white" />
+</p>
+
+
  
- 🔭 Strengthening HTML, CSS, and JavaScript fundamentals
-
- 🌱 Learning Git & GitHub for better collaboration
-
-🚀 Passionate about web development & UI/UX
-
-💡 Exploring new technologies and real-world applications
-
-🎯 Aspiring Full-Stack Developer & open-source contributor.
-
-
-
----
-
-
-<div align="center">
-  <h3>⚙️ Tech Skills</h3>
-
-  ---
-  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  ! ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)   ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)  
 
 <hr>
 
@@ -56,10 +59,11 @@
     </td>
   </tr>
 
- </tr>
+ 
 
   
 </table>
+</div>
 
 <hr>
 
@@ -75,3 +79,16 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/ayana?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats">
 </p>
+
+<hr>
+
+<div align="center">
+  <h3>💬 Fun Fact</h3>
+
+> 🐞 Debugging used to mean literally removing insects from computers.....😏🤐
+
+---
+
+<div align="center">
+  <em>Feel free to reach out or check out my repositories! Let's innovate together..! 🚀</em>
+</div>
