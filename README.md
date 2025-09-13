@@ -17,18 +17,16 @@
  
    
 
-- 💻- MERN Full-Stack Developer specializing in backend development with Node.js  
-- 🎓 - Graduated with a Bachelor of Social Work (BSW) from St. Joseph's College (Autonomous), Irinjalakuda   
- 
-- 🚀- Passionate about building scalable, high-performance web applications  
-- 📚 - exploring new tools, frameworks, and emerging technologies  
-- 🌐 - Combine technical expertise with social insights to deliver a unique perspective in web development 
-  
-- 🎨 -  UI/UX Designer, dedicated to creating seamless, engaging, and user-focused digital experiences   
+-  💻 MERN Full-Stack Developer specializing in Node.js backend 
+- 🎓 BSW Graduate from St. Joseph's College (Autonomous), Irinjalakuda  
+- 🚀 Passionate about scalable, high-performance web apps 
+- 📚 Exploring new tools, frameworks, and technologies 
+- 🌐 Combine tech expertise with social insights for a unique perspective  
+- 🎨 UI/UX Designer, creating intuitive and user-focused digital experiences  
+- 🤝 Advocate of teamwork, collaboration, and knowledge-sharing 
+- 💼 Open to backend Node.js focused job opportunities 
 
-- 🤝 -  Advocate of teamwork, collaboration, and knowledge-sharing   
-
-
+  [![Profile Views](https://visitcountpro.netlify.app/api?id=codewithayana&pretty=true)](https://visitcount.itsvg.in) 
 ---
 
 
@@ -107,7 +105,6 @@
 
 ## Current GitHub Stats 📊 [![Profile Views](https://visitcountpro.netlify.app/api?id=codewithayana&pretty=true)](https://visitcount.itsvg.in)
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <div  >
 <a  href="https://github.com/codewithayana">
