@@ -1,7 +1,7 @@
 <h2 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/ayanadinesh/"> AYANA DINESH</a> </h2>
 <div align="center">
   
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-dinesh-jdm430d07/)
+<!-- [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-dinesh-jdm430d07/) -->
 [![Resume Badge](https://img.shields.io/badge/-Resume-34495e?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/16sbez4i4QMG87PUGMHYIVnTZunIqlbK4/view?usp=sharing)
 [![Gmail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=gmail&logoColor=white)](mailto:codewithayana@gmail.com)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/918129407173)
@@ -15,15 +15,19 @@
 
 <img src="./assets/images/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
  
- - 🔭 Strengthening **HTML, CSS, and JavaScript** fundamentals  
+ - ## 👋 About Me  
 
-- 🌱 Learning **Git & GitHub** for better collaboration  
+- 💻- MERN Full-Stack Developer specializing in backend development with Node.js  
+- 🎓 - Graduated with a Bachelor of Social Work (BSW) from St. Joseph's College (Autonomous), Irinjalakuda   
+ 
+- 🚀- Passionate about building scalable, high-performance web applications  
+- 📚 - exploring new tools, frameworks, and emerging technologies  
+- 🌐 - Combine technical expertise with social insights to deliver a unique perspective in web development 
+  
+- 🎨 -  UI/UX Designer, dedicated to creating seamless, engaging, and user-focused digital experiences   
 
-- 🚀 Passionate about **web development & UI/UX**  
+- 🤝 -  Advocate of teamwork, collaboration, and knowledge-sharing   
 
-- 💡 Exploring new technologies and real-world applications  
-
-- 🎯 Aspiring MERN full stack developer &    focused Backend Developer Node.js
 
 ---
 
@@ -147,9 +151,10 @@
   <em>Feel free to reach out or check out my repositories! Let's innovate together..! 🚀</em>
 </div>
 
-<hr>
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-dinesh-jdm430d07/)
+---
+
+<!-- [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-dinesh-jdm430d07/) -->
 [![Resume Badge](https://img.shields.io/badge/-Resume-34495e?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/16sbez4i4QMG87PUGMHYIVnTZunIqlbK4/view?usp=sharing)
 [![Gmail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=gmail&logoColor=white)](mailto:codewithayana@gmail.com)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/918129407173)
