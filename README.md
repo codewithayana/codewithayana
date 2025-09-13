@@ -15,7 +15,7 @@
 
 <img src="./assets/images/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
  
- - ## 👋 About Me  
+   
 
 - 💻- MERN Full-Stack Developer specializing in backend development with Node.js  
 - 🎓 - Graduated with a Bachelor of Social Work (BSW) from St. Joseph's College (Autonomous), Irinjalakuda   
