@@ -1,7 +1,10 @@
 <h2 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/ayanadinesh/"> AYANA DINESH</a> </h2>
 <div align="center">
+
+### 💻 Full-Stack Developer | 🚀 Software Engineer | 🧑‍💻 Freelancer
   
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayanadinesh)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-1abc9c?style=flat&logo=google-chrome&logoColor=white)](https://my-portfolio-next-js-ivory-sigma.vercel.app/)
 [![Resume Badge](https://img.shields.io/badge/-Resume-34495e?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/codewithayana/codewithayana/blob/main/Ayana%20Full%20Stack%202026.pdf)
 [![Gmail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=gmail&logoColor=white)](mailto:codewithayana@gmail.com)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/918129407173)
@@ -10,7 +13,7 @@
 
 
 
-<!-- [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-1abc9c?style=flat&logo=google-chrome&logoColor=white)](https://m-dinesh-30.web.app/) -->
+
 
 <hr>
 
@@ -124,13 +127,11 @@
 </details>
 </div>
 
-<!-- ## 🧑🏻‍💻Leetcode Stats
+<!-- <!-- ## 🧑🏻‍💻Leetcode Stats -->
 
-[![Leetcode stats](https://leetcard.jacoblin.cool/codewithayana?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/u/codewithayana/) -->
+<!-- [![Leetcode stats](https://leetcard.jacoblin.cool/Ayanadinesh?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/u/ayanadinesh/) --> 
 
-## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=codewithayana&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <p align="center">
