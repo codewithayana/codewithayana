@@ -109,6 +109,8 @@
 
 ## Current GitHub Stats 📊 [![Profile Views](https://visitcountpro.netlify.app/api?id=codewithayana&pretty=true)](https://visitcount.itsvg.in)
 
+<img align='right' src="assets/giphy (1).webp" width="300">
+
 
 <div  >
 <a  href="https://github.com/codewithayana">
