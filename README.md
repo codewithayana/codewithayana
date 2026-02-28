@@ -1,16 +1,18 @@
 <h2 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/ayanadinesh/"> AYANA DINESH</a> </h2>
 <div align="center">
   
+  ### 💻 Full-Stack Developer | 🚀 Software Engineer | 🧑‍💻 Freelancer
+
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayanadinesh)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-db2777?style=flat&logo=google-chrome&logoColor=white)](https://my-portfolio-next-js-ivory-sigma.vercel.app/)
 [![Resume Badge](https://img.shields.io/badge/-Resume-34495e?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/codewithayana/codewithayana/blob/main/Ayana%20Full%20Stack%202026.pdf)
 [![Gmail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=gmail&logoColor=white)](mailto:codewithayana@gmail.com)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/918129407173)
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/ayanadinesh/)
+
 </div>
 
 
-
-<!-- [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-1abc9c?style=flat&logo=google-chrome&logoColor=white)](https://m-dinesh-30.web.app/) -->
 
 <hr>
 
@@ -18,14 +20,14 @@
  
    
 
--  💻 MERN Full-Stack Developer specializing in Node.js backend 
+-  💻  Full-Stack Developer (MERN Stack) 
 - 🎓 BSW Graduate from St. Joseph's College (Autonomous), Irinjalakuda  
-- 🚀 Passionate about scalable, high-performance web apps 
+- 🚀 Building scalable, high-performance web apps 
 - 📚 Exploring new tools, frameworks, and technologies 
-- 🌐 Combine tech expertise with social insights for a unique perspective  
-- 🎨 UI/UX Designer, creating intuitive and user-focused digital experiences  
-- 🤝 Advocate of teamwork, collaboration, and knowledge-sharing 
-- 💼 Open to backend Node.js focused job opportunities 
+- 🌐 Blending tech with social insight  
+- 🎨 UI/UX Designer crafting intuitive experiences  
+- 🤝 Teamwork. Collaboration. Knowledge-sharing. 
+- 💼 Open to collaborate on Projects & Freelance Works 
 
   [![Profile Views](https://visitcountpro.netlify.app/api?id=codewithayana&pretty=true)](https://visitcount.itsvg.in) 
 ---
@@ -152,8 +154,5 @@
 
 ---
 
-<!-- [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-dinesh-jdm430d07/) -->
-[![Resume Badge](https://img.shields.io/badge/-Resume-34495e?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/16sbez4i4QMG87PUGMHYIVnTZunIqlbK4/view?usp=sharing)
-[![Gmail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=gmail&logoColor=white)](mailto:codewithayana@gmail.com)
-[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/918129407173)
+
 </div>
