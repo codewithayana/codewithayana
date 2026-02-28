@@ -129,9 +129,9 @@
 </details>
 </div>
 
-<!-- <!-- ## 🧑🏻‍💻Leetcode Stats -->
+ ## 🧑🏻‍💻Leetcode Stats
 
-<!-- [![Leetcode stats](https://leetcard.jacoblin.cool/Ayanadinesh?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/u/ayanadinesh/) --> 
+[![Leetcode stats](https://leetcard.jacoblin.cool/Ayanadinesh?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/u/ayanadinesh/) 
 
 
 
