@@ -129,14 +129,10 @@
 </details>
 </div>
 
+<!-- <!-- ## 🧑🏻‍💻Leetcode Stats -->
 
+<!-- [![Leetcode stats](https://leetcard.jacoblin.cool/Ayanadinesh?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/u/ayanadinesh/) --> 
 
- ## 🧑🏻‍💻Leetcode Stats 
-
- <img align='right' src="assets/svgs/200.webp" width="400">
-
-
-[![Leetcode stats](https://leetcard.jacoblin.cool/Ayanadinesh?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/u/ayanadinesh/) 
 
 
 
